@@ -1,0 +1,21 @@
+
+
+
+
+:root {
+    --brand:#ff1625;
+    --riful: #rgb(250;150,100);
+    
+}
+
+    
+nav {
+    
+    width: 150px;
+    
+    margin: 50px brown;
+    border: 50px black;
+    color:var(--brand)
+
+}
+
